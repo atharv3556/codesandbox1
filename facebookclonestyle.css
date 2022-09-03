@@ -1,0 +1,14 @@
+:root{
+	--black:#d1dde6;
+}
+*{margin: 2px; padding: 0px; box-sizing: border-box; font-family: system-ui;font-language-override: inherit;}
+.fb{
+	background: var(--black);
+	height: 400px;
+	width: 500px;
+	padding: 50px;
+	position: relative;
+	margin: 50px auto;
+	box-shadow: 10px 10px 20px black;
+	border-radius: 10px;
+}
